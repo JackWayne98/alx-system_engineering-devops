@@ -1,0 +1,1 @@
+This repository has the main purpose of completing the 0x00. Shell, Basics work.
