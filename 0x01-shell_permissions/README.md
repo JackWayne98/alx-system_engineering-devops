@@ -1,0 +1,1 @@
+This folder contains all the activities related to how to deal with permissions stuff
